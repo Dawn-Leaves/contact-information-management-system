@@ -20,7 +20,7 @@ This 3rd-semester academic project provides a keyboard-first visual CLI (termina
 - [📸 Screenshots](#-screenshots)
 - [🏆 Learning Outcomes](#-learning-outcomes)
 - [👨‍💻 Author](#-author)
-- [📝 Note](# Note)
+- [📝 Note](#-Note)
 
 ---
 
@@ -173,4 +173,5 @@ Bachelor in Computer Engineering — 3rd Semester
 This project was developed for academic learning purposes. It is a **console + graphics-based system** and may not support modern compilers without additional configuration for `graphics.h`.  
 
 Also if you want to know the internal architecture of this system contact me. You can contact me on both email and LinkedIn.
+
 
