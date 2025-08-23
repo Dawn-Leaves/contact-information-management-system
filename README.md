@@ -12,18 +12,15 @@ This 3rd-semester academic project provides a keyboard-first visual CLI (termina
 ## 📑 Table of Contents
 - [About](#about)
 - [✨ Features](#-features)
-- [🛠️Technology Stack](#-technology-stack)
-- [How the System Works](#🚀-how-the-system-works)
-- [Quick start — How to run](#⚡-quick-start--how-to-run)
+- [🛠️ Technology Stack](#-technology-stack)
+- [🚀 How the System Works](#-how-the-system-works)
+- [⚡ Quick start — How to run](#-quick-start--how-to-run)
   - [Run with Turbo C++ (recommended for original graphics.h)](#run-with-turbo-c-recommended-for-original-graphicsh)
   - [Run on modern systems (recommended alternatives)](#run-on-modern-systems-recommended-alternatives)
-- [Screenshots](#📸-screenshots)
-- [Learning Outcomes](#🏆-learning-outcomes)
-- [Project structure & architecture](#🧭-project-structure--architecture)
-- [Contributing](#🤝-contributing)
-- [License](#📜-license)
-- [Contact](#✉️-contact)
-- [Suggested GitHub topics](#🏷️-suggested-github-topics)
+- [📸 Screenshots](#-screenshots)
+- [🏆 Learning Outcomes](#-learning-outcomes)
+- [👨‍💻 Author](#-author)
+- [📝 Note](# Note)
 
 ---
 
@@ -176,3 +173,4 @@ Bachelor in Computer Engineering — 3rd Semester
 This project was developed for academic learning purposes. It is a **console + graphics-based system** and may not support modern compilers without additional configuration for `graphics.h`.  
 
 Also if you want to know the internal architecture of this system contact me. You can contact me on both email and LinkedIn.
+
